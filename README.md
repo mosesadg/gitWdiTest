@@ -1,2 +1,2 @@
 # gitWdiTest
-Test
+git
